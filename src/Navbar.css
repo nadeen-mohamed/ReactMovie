@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #CCB07C;
+}
+.navbar-brand{
+    background-color: #CCB07C;
+}
+#h{
+    color: #926239; 
+}
+
+Link{
+    color: #926239;
+}
+
+.active-link {
+    color: brown;
+  }
+  .fa-cart-shopping{
+    color: #926239;
+  }
